@@ -1,7 +1,8 @@
 {
   "id": "mobile-5e-2014",
   "name": "Mobile 5e 2014",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "title": "Mobile 5e 2014",
   "summary": "Adapts the official D&D 5e 2014 character sheet for portrait phone play.",
   "description": "A mobile-first restyle of the official dnd5e 3.x character sheet for portrait phone play. Reflows the first character sheet page into a single column with large touch targets, keeping all rolls and updates delegated to the native dnd5e system.",
   "authors": [
